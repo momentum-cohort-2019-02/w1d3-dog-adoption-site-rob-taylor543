@@ -4,7 +4,7 @@
 
 body {
     background-color:rgb(242,242,242);
-    max-width:75rem;
+    max-width:1000px;
     margin:auto;
 }
 
@@ -20,7 +20,21 @@ main {
     background-color: rgb(255,255,255);
 }
 
-.Selector {
+.selector {
     background-color: rgb(242,242,242);
     padding: .01rem .75rem;
+    margin-bottom: 1rem;
+}
+
+.dog-name {
+    font-family: "Oswald";
+    padding:0;
+    margin:0;
+}
+
+.dog-tag {
+    margin:.4rem .4rem 0 0;
+    background-color:#A0DBED;
+    padding: .05rem .5rem .05rem .5rem;
+    border-radius: 25px;
 }
