@@ -1,0 +1,14 @@
+* {
+    font-family:"Open Sans";
+}
+
+body {
+    background-color:rgb(242,242,242);
+}
+
+h1 {
+    padding: 2rem;
+    margin: 0rem 10rem 2px 10rem;
+    background-color: rgb(24,62,115);
+    color:white;
+}
