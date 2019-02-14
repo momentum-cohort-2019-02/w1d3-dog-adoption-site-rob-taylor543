@@ -5,7 +5,7 @@
 
 body {
     background-color:rgb(242,242,242);
-    max-width:80%;
+    max-width:1100px;
     margin:auto;
 }
 
@@ -65,24 +65,24 @@ footer {
 }
 
 .foot1 {
-    width:350px;
+    width:336;
     height:250px;
     background: url("starter_files/images/donate.jpg");
-    background-size: cover;
+    background-size: 100%;
 }
 
 .foot2 {
-    width:350px;
+    width:337;
     height:250px;
     background: url("starter_files/images/volunteer.jpg");
-    background-size: cover;
+    background-size: 100%;
 }
 
 .foot3 {
-    width:350px;
+    width:337;
     height:250px;
     background: url("starter_files/images/location.png");
-    background-size: cover;
+    background-size: 100%;
 }
 
 .foot-background {
