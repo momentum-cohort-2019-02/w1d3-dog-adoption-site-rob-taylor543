@@ -106,3 +106,16 @@ footer {
     display: flex;
     flex-wrap: wrap;
 }
+
+.fieldsets {
+    display: flex;
+    flex-wrap: wrap:
+}
+
+.set {
+    border: none;
+}
+
+legend {
+    font-weight: bold;
+}
