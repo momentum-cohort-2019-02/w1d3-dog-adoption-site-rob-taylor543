@@ -65,21 +65,24 @@ footer {
 }
 
 .foot1 {
-    width:336;
+    width:34%;
+    min-width: 300px;
     height:250px;
     background: url("starter_files/images/donate.jpg");
     background-size: 100%;
 }
 
 .foot2 {
-    width:337;
+    width:33%;
+    min-width: 300px;
     height:250px;
     background: url("starter_files/images/volunteer.jpg");
     background-size: 100%;
 }
 
 .foot3 {
-    width:337;
+    width:33%;
+    min-width: 300px;
     height:250px;
     background: url("starter_files/images/location.png");
     background-size: 100%;
